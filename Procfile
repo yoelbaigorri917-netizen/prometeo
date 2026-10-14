@@ -1,1 +1,0 @@
-web: python prometeo_web.py
